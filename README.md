@@ -15,6 +15,6 @@
 
 <b> 📒 해당 챕터에서 알게 된 것 </b>  
 -String.fromCharCode.  
--for(var s in data) / for(var s of data) 정확한 차이.
+-for(var s in data) / for(var s of data) 정확한 차이.  
 (1) for in : 배열의 번호가 출력.  
 (2) for of : 배열의 data가 출력.
